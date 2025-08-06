@@ -1,3 +1,8 @@
 2.0.3 versiyasında:
 - UI dəyişiklikləri edildi
 - Kiçik xətalar düzəldildi
+
+
+2.0.4 versiyasında:
+- Performans artırıldı
+- Avto-yeniləmə əlavə olundu
