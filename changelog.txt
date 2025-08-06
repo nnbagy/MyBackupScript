@@ -1,3 +1,3 @@
-- Fayl ehtiyyatı sisteminə sürət artırıldı
-- UI düzəlişləri edildi
-- Kiçik xətalar aradan qaldırıldı
+✅ 2.0.0 versiyasında:
+- UI dəyişiklikləri edildi
+- Kiçik xətalar düzəldildi
