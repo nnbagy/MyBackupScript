@@ -1,3 +1,3 @@
-1.0.3 versiyasında:
+1.0.5 versiyasında:
 - Performans artırıldı
 - Avto-yeniləmə əlavə olundu
