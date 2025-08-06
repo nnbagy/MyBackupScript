@@ -1,0 +1,4 @@
+✅ 2.0.0 versiyasında:
+- Fayl ehtiyyatı sisteminə sürət artırıldı
+- UI düzəlişləri edildi
+- Kiçik xətalar aradan qaldırıldı
