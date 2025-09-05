@@ -1,4 +1,4 @@
-1.0.5 versiyasında:
+1.0.1 versiyasında:
 - Performans artırıldı
 - Avto-yeniləmə əlavə olundu
 - Fullbackup və StandartBackup bölməsi əlavə edildi
